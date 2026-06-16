@@ -11,7 +11,7 @@ A comprehensive **3-page Power BI dashboard** analyzing car sales performance, c
 ## 📊 Dashboard Pages
 
 ### Page 1 — Car Sales & Dealership Analysis
-![Car Sales & Dealership Analysis](./screenshots/Car_Sales___Dealership_Analysis.png)
+![Car Sales & Dealership Analysis](Car%20Sales%20%26%20Dealership%20Analysis.png)
 
 Key KPIs and visuals:
 - **Repeat Buyer Rate:** 54%
@@ -28,7 +28,7 @@ Visuals include Revenue by Segment (donut chart), Sales by Brand (bar chart), an
 ---
 
 ### Page 2 — Customer & Product Analysis
-![Customer & Product Analysis](./screenshots/Customer___Product_Analysis.png)
+![Customer & Product Analysis](Customer%20%26%20Product%20Analysis.png)
 
 Explores:
 - Gender split across vehicle segments (Hatchback, SUV, Sedan, Budget, Mid-Range, MUV, Luxury)
@@ -41,7 +41,7 @@ Filters: Finance Type, Gender, Segment
 ---
 
 ### Page 3 — Geography, Pricing & Performance
-![Geography, Pricing & Performance](./screenshots/Geography__Pricing___Performance.png)
+![Geography, Pricing & Performance](Geography%2C%20Pricing%20%26%20Performance.png)
 
 Covers:
 - Sales by City (map visual across Indian states)
