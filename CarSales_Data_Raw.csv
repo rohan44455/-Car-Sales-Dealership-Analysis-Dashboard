@@ -1,0 +1,201 @@
+Sale_ID,Dealership_City,Brand,Model,Fuel_Type,Transmission,Color,Segment,Customer_Age,Gender,Ex_Showroom_Price,Discount_INR,Finance_Type,EMI_Months,Test_Drive_Taken,Trade_In_Vehicle,Customer_Rating,Repeat_Buyer,Sale_Date,Salesperson_ID,Accessories_Added,Waiting_Days
+CAR30000,Gujarat,Kia,Swift,DIESEL,AUTOMATIC,Black,MUV, 25,male,3000000,10000,EMI,24,NO,no,5,yes,4-10-2024,SP109,No,21
+CAR30001,Uttar Pradesh,Skoda,Seltos,Hybrid,CVT,Silver,Luxury,56.0,male,1500000.0,₹0,Cash,60,yes,Yes,NA,Y,23.8.2021,SP119,1,7
+CAR30002,Telangana,Volkswagen,Nexon,Petrol,AMT,Silver,MUV,54.0,M,1200000,10000,EMI,72,no,Y,5,Yes,6/6/2021,SP113,Y,7 days
+CAR30003,Maharashtra,Toyota,i20,Electric,CVT,white,Luxury,43,F,"₹2,500,000",₹10000,emi,72,YES,0,5,N,10-1-2022,SP118,yes,30
+CAR30004,Andhra Pradesh,Toyota,EcoSport,Diesel,CVT,White,MUV,36,F,900000.0,25000,bank loan,48,Yes,N,3,No,2023-02-28,SP104,No,30 days
+CAR30005,Uttar Pradesh,MG,Seltos,petrol,AMT,Red,Mid-Range,58.0,female,900000,₹50000,emi,12,NO,YES,3,Yes,23/12/2024,SP112,0,60
+CAR30006,Maharashtra,Tata Motors,Swift,electric,Manual,Silver,sedan,39,female,900000,₹10000,CASH,48 months,no,no,,Y,12-2-2024,SP105,yes,45
+CAR30007,Madhya Pradesh,Maruti Suzuki,Swift,Diesel,Automatic,SILVER,SUV,41,F,2000000,100000,EMI,36 months,Yes,yes,NA,YES,2022-08-01,SP116,No,21
+CAR30008,Maharashtra,Volkswagen,EcoSport,Hybrid,AUTOMATIC,White,suv,46,F,Rs.1500000,₹50000,Leasing,24,NO,No,3,Y,19/02/2019,SP115,Yes,0
+CAR30009,Tamil Nadu,Maruti Suzuki,City,cng,Manual,SILVER,Sedan,26.0,Male,3000000.0,₹10000,bank loan,36 months,Yes,1,3,Y,13.5.2021,SP106,Yes,0
+CAR30010,West Bengal,Mahindra,Slavia,Petrol,amt,Black,MUV,40.0,Female,500000,75000,CASH,48 months,no,No,5,Yes,2021-07-27,SP104,0,7 days
+CAR30011,Andhra Pradesh,Toyota,Hector,Diesel,AMT,Black,Mid-Range,43,male,1500000,25000,CASH,NA,N,No,3,no,21/09/2020,SP101,no,7
+CAR30012,Madhya Pradesh,MG,Swift,CNG,amt,red,hatchback,56,male,1200000,75000,Cash,60,N,Y,5,YES,26.1.2020,SP118,1,7 days
+CAR30013,Bihar,Renault,EcoSport,CNG,AMT,white,Budget,36,male,2500000,10000,bank loan,36,Yes,N,5,Yes,2022-09-07,SP105,yes,21
+CAR30014,Karnataka,Hyundai,i20,DIESEL,Automatic,red,SUV,29,Male,700000,₹25000,Cash,48 months,YES,Yes,5,N,6/24/2021,SP116,YES,0
+CAR30015,Maharashtra,Volkswagen,Scorpio,DIESEL,amt,red,sedan,56.0,female,1500000,₹50000,emi,NA,NO,No,5,YES,2021-11-11,SP104,N,0
+CAR30016,Bihar,Hyundai,Nexon,cng,AMT,Red,Budget,52.0,Female,Rs.900000,100000,bank loan,48 months,Y,no,5,NO,22/07/2022,SP103,YES,30 days
+CAR30017,Telangana,Honda,Slavia,electric,AMT,Blue,Hatchback,58.0,Female,1500000.0,₹10000,Cash,12,0,Yes,5,no,2024-05-26,SP117,1,7
+CAR30018,Kerala,Honda,EcoSport,CNG,Automatic,white,Luxury,37.0,F,1500000,100000,Bank Loan,36 months,Y,Y,3,no,3/25/2024,SP117,Yes,NA
+CAR30019,Telangana,Mahindra,Nexon,Hybrid,Automatic,Grey,MUV,37,M,1200000,100000,emi,NA,yes,yes,,NO,7/7/2023,SP105,N,30 days
+CAR30020,Maharashtra,Volkswagen,Scorpio,Petrol,manual,Grey,suv,24.0,M,1500000.0,75000,Bank Loan,NA,N,1,3,N,8-6-2024,SP116,yes,14
+CAR30021,Andhra Pradesh,Hyundai,i20,Hybrid,AMT,Blue,Hatchback,23,M,700000.0,25000,EMI,12,Yes,N,5,No,2024-04-05,SP107,No,NA
+CAR30022,Karnataka,Kia,Seltos,Diesel,Automatic,Blue,Mid-Range, 41,F,3000000,0,CASH,72,No,0,4,YES,25/07/2020,SP113,no,30 days
+CAR30023,Karnataka,Ford,Slavia,Petrol,amt,White,SUV,22,Male,3000000.0,75000,Bank Loan,36 months,YES,Y,4,0,11.5.2021,SP116,YES,0
+CAR30024,West Bengal,Mahindra,Seltos,CNG,CVT,red,Sedan,34.0,F,5000000,25000,Leasing,48,NO,0,,no,6/17/2019,SP116,yes,7 days
+CAR30025,Uttar Pradesh,Kia,Nexon,Petrol,AUTOMATIC,Blue,Hatchback, 26,Male,1200000,50000,CASH,36,No,yes,5,NO,17.2.2019,SP101,1,14
+CAR30026,Rajasthan,Tata Motors,EcoSport,Diesel,manual,red,hatchback,50.0,Male,"₹1,500,000",50000,In-House Finance,36 months,N,NO,NA,No,27.11.2023,SP102,1,30
+CAR30027,Rajasthan,Volkswagen,Hector,Electric,AMT,White,Sedan,34.0,female,3000000,0,EMI,48,YES,No,,Y,2023-05-06,SP119,0,60
+CAR30028,West Bengal,Kia,Slavia,cng,manual,Black,hatchback,23.0,F,Rs.5000000,0,CASH,48 months,YES,1,NA,Yes,22-10-2022,SP105,NO,30
+CAR30029,Andhra Pradesh,Ford,Fortuner,electric,AUTOMATIC,Black,Budget,27.0,MALE,500000,₹100000,Leasing,48 months,No,Y,3,N,22/12/2023,SP119,YES,45
+CAR30030,Uttar Pradesh,Mahindra,Scorpio,Diesel,CVT,Grey,MUV,32,F,1500000,100000,EMI,36 months,1,Y,NA,1,1/7/2019,SP106,no,0
+CAR30031,Bihar,Volkswagen,Swift,Hybrid,CVT,Black,Mid-Range,38,M,2500000,100000,In-House Finance,72,1,1,3,YES,26-10-2023,SP108,no,30
+CAR30032,West Bengal,Ford,Slavia,Petrol,amt,White,Sedan,53.0,M,900000,10000,EMI,48,NO,1,5,Yes,24.8.2024,SP101,no,60
+CAR30033,Bihar,Maruti Suzuki,Nexon,CNG,Automatic,Blue,Budget,50.0,female,"₹5,000,000",₹75000,EMI,24,YES,N,4,N,7.4.2019,SP112,YES,30
+CAR30034,Gujarat,Skoda,Nexon,petrol,Manual,Black,suv, 42,F,2000000,75000,emi,72,0,1,4,1,03/11/2024,SP114,Y,60
+CAR30035,Bihar,Tata Motors,EcoSport,CNG,CVT,White,Sedan, 35,F,2000000,100000,EMI,60,YES,NO,5,NO,2/14/2021,SP106,0,30
+CAR30036,Maharashtra,Hyundai,Seltos,DIESEL,manual,Black,MUV,22,male,3000000,10000,Bank Loan,48 months,no,NO,5,1,20/08/2021,SP113,no,30
+CAR30037,Maharashtra,Honda,City,electric,AMT,Blue,SUV,39.0,male,2500000,₹100000,In-House Finance,48,no,Y,5,0,07/02/2021,SP101,Yes,45
+CAR30038,Maharashtra,MG,i20,Diesel,AMT,Black,hatchback,34,male,900000,₹50000,Leasing,12,N,no,3,Yes,4-5-2021,SP101,Yes,NA
+CAR30039,Tamil Nadu,Hyundai,Kwid,DIESEL,Automatic,Silver,SUV,28,female,1500000,100000,bank loan,60,no,Yes,5,YES,28-12-2020,SP102,0,30 days
+CAR30040,Gujarat,MG,Kwid,DIESEL,CVT,Grey,Hatchback,54,male,5000000,100000,Bank Loan,48 months,NO,Yes,NA,Yes,3.2.2019,SP120,0,45
+CAR30041,Telangana,Tata Motors,Fortuner,petrol,amt,Black,Hatchback,44,Male,700000,50000,emi,48 months,Yes,No,,NO,16-3-2021,SP110,YES,NA
+CAR30042,Rajasthan,Maruti Suzuki,Polo,Hybrid,AMT,Black,suv,23.0,male,5000000,₹75000,Bank Loan,12,No,No,3,1,3/19/2023,SP101,YES,60
+CAR30043,West Bengal,Kia,Nexon,electric,AUTOMATIC,White,Sedan,26,male,900000,10000,bank loan,48,yes,No,5,yes,5-11-2019,SP114,Y,45
+CAR30044,Uttar Pradesh,Hyundai,Polo,DIESEL,amt,White,SUV,47.0,MALE,3000000.0,0,Leasing,24,1,Yes,,1,2.6.2024,SP111,YES,NA
+CAR30045,Andhra Pradesh,Toyota,i20,Petrol,manual,White,SUV, 60,M,500000,10000,emi,48 months,0,Yes,,No,2019-04-19,SP101,Yes,30 days
+CAR30046,Gujarat,Skoda,Fortuner,DIESEL,Automatic,Blue,hatchback,56.0,female,5000000,₹100000,emi,12,Y,NO,4,no,2022-08-17,SP115,Yes,7 days
+CAR30047,Uttar Pradesh,Renault,City,petrol,AUTOMATIC,White,SUV,58.0,male,2500000,50000,Leasing,72,No,Yes,5,1,5/17/2022,SP120,0,7 days
+CAR30048,Uttar Pradesh,Ford,Kwid,electric,Automatic,Blue,sedan,24,M,900000.0,100000,CASH,48 months,No,no,5,yes,5/1/2024,SP106,no,30
+CAR30049,Bihar,Ford,Scorpio,Hybrid,amt,Black,sedan,56,F,"₹2,000,000",10000,emi,36 months,Y,no,5,0,07/12/2022,SP108,Yes,7
+CAR30050,Tamil Nadu,Honda,Slavia,DIESEL,amt,Black,suv,23,male,Rs.1500000,75000,Bank Loan,NA,1,No,4,Y,10.7.2019,SP114,1,0
+CAR30051,Kerala,MG,EcoSport,CNG,AUTOMATIC,Grey,Mid-Range, 48,MALE,Rs.700000,75000,Cash,12,N,NO,4,Yes,12/07/2019,SP106,Yes,30 days
+CAR30052,Gujarat,Toyota,i20,Hybrid,AMT,Black,Budget,40.0,Female,1500000,75000,Cash,48 months,0,No,,yes,8.8.2022,SP117,No,0
+CAR30053,Uttar Pradesh,Ford,City,Electric,CVT,White,suv,39,M,"₹5,000,000",100000,EMI,12,N,yes,3,1,8/3/2020,SP102,Y,14
+CAR30054,Uttar Pradesh,Hyundai,i20,Hybrid,manual,white,sedan,37,female,Rs.500000,10000,In-House Finance,36,yes,0,3,no,17.2.2023,SP112,no,14
+CAR30055,Telangana,Volkswagen,Polo,Hybrid,manual,Red,SUV,52,Female,"₹500,000",0,Bank Loan,NA,no,Yes,NA,no,23/12/2024,SP111,N,21
+CAR30056,Karnataka,Hyundai,Slavia,cng,Automatic,Grey,Mid-Range, 28,M,Rs.5000000,0,CASH,24,yes,No,NA,1,1.4.2024,SP101,NO,7 days
+CAR30057,Rajasthan,Maruti Suzuki,Swift,DIESEL,amt,White,hatchback,50,male,Rs.2500000,₹0,In-House Finance,12,0,0,5,yes,5.5.2022,SP105,no,60
+CAR30058,Karnataka,Kia,Swift,electric,amt,Blue,SUV,60,F,900000,25000,Cash,48 months,No,No,3,yes,12/22/2021,SP101,YES,NA
+CAR30059,Andhra Pradesh,Volkswagen,Slavia,Electric,AMT,Blue,Budget,47.0,female,3000000,50000,CASH,NA,Y,no,4,NO,28-1-2024,SP110,Yes,7
+CAR30060,Andhra Pradesh,Maruti Suzuki,Fortuner,electric,amt,Grey,suv,53,male,"₹1,200,000",₹100000,bank loan,48 months,YES,N,5,Yes,9/5/2024,SP103,No,14
+CAR30061,Telangana,Mahindra,Nexon,DIESEL,Manual,White,suv,57,Female,1200000,10000,bank loan,12,No,N,4,NO,21.1.2019,SP113,Y,7 days
+CAR30062,Madhya Pradesh,Toyota,EcoSport,Hybrid,AMT,Blue,Mid-Range,58,Male,2500000,50000,Bank Loan,36,N,0,3,N,16/01/2019,SP116,no,60
+CAR30063,Madhya Pradesh,Maruti Suzuki,EcoSport,Hybrid,Automatic,Grey,Hatchback,38.0,male,3000000,50000,EMI,36,N,Yes,5,no,4/9/2021,SP107,NO,30
+CAR30064,Karnataka,Skoda,Seltos,CNG,Manual,Grey,Sedan, 49,Female,900000,25000,emi,72,YES,no,3,1,14/04/2020,SP111,Y,21
+CAR30065,Madhya Pradesh,Skoda,EcoSport,Petrol,amt,white,suv,37.0,Male,"₹1,200,000",0,emi,36 months,NO,N,5,YES,18.7.2019,SP106,no,NA
+CAR30066,Karnataka,Skoda,Slavia,DIESEL,manual,White,Budget,37.0,Female,"₹5,000,000",0,emi,72,YES,NO,3,NO,25-5-2024,SP117,0,14
+CAR30067,Rajasthan,MG,Hector,cng,Manual,Silver,Luxury,31,MALE,700000.0,50000,Leasing,36,No,Yes,3,Yes,3/14/2019,SP112,Y,30
+CAR30068,Karnataka,Kia,Polo,DIESEL,manual,Silver,suv,51.0,F,Rs.2000000,100000,EMI,60,YES,0,5,1,2-6-2019,SP118,no,14
+CAR30069,Bihar,Maruti Suzuki,i20,Diesel,manual,red,Hatchback,49,male,1200000.0,75000,In-House Finance,36,no,yes,5,NO,9-2-2023,SP110,YES,45
+CAR30070,Bihar,Hyundai,Hector,electric,AUTOMATIC,red,Hatchback, 38,F,1200000,10000,Cash,12,NO,Yes,,1,10.9.2019,SP107,YES,60
+CAR30071,Telangana,Mahindra,Slavia,Petrol,manual,white,sedan,47.0,M,2500000,75000,Cash,72,NO,YES,5,Yes,06/06/2020,SP105,N,NA
+CAR30072,Karnataka,Hyundai,Slavia,Electric,amt,Blue,Budget, 55,Male,500000,10000,Bank Loan,60,no,YES,5,Yes,28-11-2024,SP103,NO,45
+CAR30073,Telangana,Honda,Fortuner,Petrol,manual,Black,hatchback,35.0,male,1500000,25000,EMI,48 months,no,no,4,NO,26-8-2019,SP112,1,0
+CAR30074,Telangana,Toyota,City,petrol,AMT,Silver,hatchback,29.0,Female,Rs.2000000,₹50000,emi,24,yes,Yes,3,No,2/11/2022,SP110,yes,45
+CAR30075,Telangana,MG,Nexon,Hybrid,AMT,Blue,Budget,26,M,Rs.1500000,0,In-House Finance,36 months,Yes,YES,3,Y,2019-06-25,SP118,no,NA
+CAR30076,Maharashtra,Hyundai,Swift,Petrol,AUTOMATIC,Black,Mid-Range,22,M,1500000,0,Leasing,48 months,1,Y,,YES,14-1-2024,SP110,0,60
+CAR30077,Maharashtra,Mahindra,Slavia,cng,Manual,Silver,Hatchback,43,Male,1500000,₹50000,emi,72,Yes,no,3,Yes,1/6/2022,SP104,YES,21
+CAR30078,Rajasthan,Ford,Scorpio,electric,CVT,white,Sedan, 34,male,1500000.0,₹10000,Cash,72,yes,NO,5,N,6-2-2021,SP115,N,30 days
+CAR30079,Rajasthan,Renault,Scorpio,cng,Manual,SILVER,Hatchback,23,Female,"₹2,000,000",100000,emi,12,Yes,N,4,No,8/4/2020,SP113,Y,30 days
+CAR30080,Kerala,Volkswagen,Fortuner,electric,manual,white,sedan,46,Female,"₹3,000,000",0,CASH,NA,1,Yes,4,YES,26-11-2021,SP114,1,30 days
+CAR30081,Karnataka,Ford,i20,Petrol,AUTOMATIC,White,suv,40.0,female,900000,25000,bank loan,72,yes,No,,NO,2024-03-13,SP120,no,7
+CAR30082,Madhya Pradesh,MG,Nexon,Diesel,Automatic,Red,MUV,43.0,M,"₹2,000,000",100000,emi,24,YES,Yes,NA,No,4/24/2021,SP102,1,14
+CAR30083,Kerala,Maruti Suzuki,Polo,Electric,manual,Black,Luxury, 42,female,"₹1,200,000",₹75000,In-House Finance,NA,yes,1,NA,no,9/23/2024,SP119,yes,7 days
+CAR30084,Karnataka,Honda,Polo,Diesel,CVT,Red,suv,24.0,M,5000000,10000,CASH,48,no,NO,,YES,8/9/2020,SP117,No,7 days
+CAR30085,Rajasthan,Renault,Swift,Petrol,Automatic,Blue,Luxury,27,male,1200000,0,bank loan,NA,Y,Yes,4,NO,2023-12-02,SP106,N,14
+CAR30086,Rajasthan,Volkswagen,i20,Hybrid,Manual,Black,Budget, 54,F,Rs.500000,25000,Bank Loan,12,no,N,5,0,9/4/2022,SP101,N,0
+CAR30087,Madhya Pradesh,MG,City,Electric,CVT,White,hatchback, 47,M,900000,0,Bank Loan,36,YES,1,4,No,4/8/2024,SP112,no,7
+CAR30088,Telangana,Ford,Nexon,cng,CVT,white,Sedan,50,Female,Rs.900000,100000,Cash,36,no,N,5,Y,2019-01-25,SP103,N,60
+CAR30089,Maharashtra,Kia,Slavia,DIESEL,Manual,SILVER,MUV, 24,F,500000,50000,Cash,36,Y,N,5,YES,9/7/2021,SP118,1,7
+CAR30090,Rajasthan,Honda,Swift,DIESEL,AMT,red,Luxury,44.0,male,500000,50000,EMI,48 months,0,N,5,no,2020-12-16,SP105,NO,45
+CAR30091,Madhya Pradesh,Maruti Suzuki,Seltos,cng,manual,Red,Budget,58,Male,"₹900,000",50000,Bank Loan,72,Y,0,5,Yes,1/12/2022,SP116,NO,30 days
+CAR30092,Gujarat,Hyundai,Scorpio,CNG,AUTOMATIC,Black,Budget,46.0,M,3000000,0,Leasing,36 months,NO,Yes,3,Y,15.9.2021,SP110,YES,7
+CAR30093,Andhra Pradesh,MG,Kwid,CNG,manual,SILVER,sedan, 48,female,1200000.0,₹50000,Cash,60,N,no,,no,23.11.2019,SP109,1,21
+CAR30094,Gujarat,Hyundai,EcoSport,Electric,AUTOMATIC,Silver,sedan, 49,M,"₹5,000,000",₹0,In-House Finance,72,no,N,5,NO,12-1-2024,SP111,Yes,14
+CAR30095,Maharashtra,Mahindra,Polo,Electric,AMT,Silver,Budget,45.0,MALE,500000,₹25000,Cash,36,0,0,5,N,11/5/2023,SP116,no,30
+CAR30096,Karnataka,Volkswagen,Hector,cng,manual,Black,SUV,24,Male,5000000,50000,emi,48 months,No,0,4,NO,21/06/2022,SP110,1,7
+CAR30097,Maharashtra,Tata Motors,City,cng,manual,White,Hatchback,60,MALE,1500000,75000,bank loan,60,YES,Yes,4,no,8-8-2024,SP114,Y,60
+CAR30098,Kerala,Renault,Slavia,CNG,CVT,Silver,hatchback,34.0,MALE,Rs.5000000,50000,bank loan,72,no,1,4,N,17/07/2021,SP120,1,7 days
+CAR30099,Tamil Nadu,Hyundai,Hector,cng,amt,Blue,hatchback,36.0,male,1500000,75000,Bank Loan,60,YES,no,3,no,6/27/2024,SP117,No,NA
+CAR30100,Karnataka,Ford,Hector,CNG,Manual,Black,Luxury,47.0,female,500000,₹75000,EMI,48,NO,no,4,0,5.6.2020,SP104,no,14
+CAR30101,Bihar,Toyota,Polo,DIESEL,Automatic,SILVER,sedan,36,M,"₹5,000,000",₹100000,emi,60,1,yes,5,NO,12-9-2023,SP116,NO,45
+CAR30102,Uttar Pradesh,Skoda,Polo,Hybrid,Automatic,White,MUV, 43,Male,Rs.1200000,75000,Leasing,36,yes,no,5,No,14/07/2024,SP102,Yes,21
+CAR30103,Madhya Pradesh,Kia,Polo,Electric,AMT,Blue,Mid-Range,55,M,3000000,₹25000,CASH,36,1,Yes,3,Yes,16-6-2021,SP113,N,14
+CAR30104,Andhra Pradesh,Kia,City,Hybrid,CVT,Red,sedan,51.0,male,3000000.0,100000,CASH,36 months,YES,no,4,1,23-3-2024,SP106,yes,30
+CAR30105,Karnataka,MG,City,cng,AMT,Red,Mid-Range,25,Female,1200000.0,₹0,EMI,36,No,1,3,No,10-11-2023,SP119,Yes,30
+CAR30106,Andhra Pradesh,Renault,Slavia,electric,Automatic,SILVER,Hatchback, 24,F,Rs.500000,10000,EMI,24,1,N,3,0,4/27/2019,SP107,No,0
+CAR30107,Kerala,Honda,Polo,Hybrid,Automatic,Blue,Luxury,37.0,MALE,2000000,25000,emi,36,No,Yes,5,NO,3/24/2023,SP113,N,60
+CAR30108,Maharashtra,Volkswagen,Seltos,Petrol,Automatic,red,MUV,33,female,Rs.2500000,0,Bank Loan,48,YES,Y,5,Yes,1/20/2024,SP101,Y,21
+CAR30109,Gujarat,MG,Seltos,electric,Manual,Blue,Sedan,24,male,5000000,0,In-House Finance,72,YES,0,5,Y,11-6-2020,SP107,Yes,30 days
+CAR30110,Tamil Nadu,Mahindra,Polo,CNG,CVT,Silver,hatchback,37,Male,Rs.900000,0,CASH,NA,0,yes,5,Y,11/4/2024,SP112,Y,14
+CAR30111,Andhra Pradesh,Mahindra,Kwid,cng,AMT,Grey,Mid-Range,38.0,female,Rs.1200000,10000,Bank Loan,48,No,No,,N,2019-05-22,SP104,NO,7
+CAR30112,Andhra Pradesh,Ford,Hector,Hybrid,Automatic,Silver,Hatchback,45,female,1200000.0,10000,Cash,12,1,NO,5,yes,22-9-2019,SP113,yes,60
+CAR30113,Uttar Pradesh,Tata Motors,Slavia,DIESEL,amt,Red,SUV,24,MALE,2500000,25000,Bank Loan,48,no,0,NA,Yes,10.4.2023,SP113,N,21
+CAR30114,Bihar,Hyundai,City,Diesel,Automatic,Red,Budget,35,MALE,5000000,₹50000,bank loan,36,Y,No,3,No,7/4/2021,SP107,no,7 days
+CAR30115,Madhya Pradesh,Hyundai,City,Hybrid,CVT,Blue,hatchback, 31,F,3000000,50000,EMI,NA,0,0,NA,Yes,25.8.2022,SP111,N,60
+CAR30116,Kerala,Mahindra,Fortuner,petrol,AMT,Black,suv,26.0,F,900000,10000,Cash,36 months,1,No,,no,8/28/2024,SP111,Yes,NA
+CAR30117,Tamil Nadu,Hyundai,Scorpio,cng,AMT,Grey,MUV,25.0,F,500000.0,0,CASH,48,Yes,NO,5,Y,25-9-2020,SP110,0,45
+CAR30118,Gujarat,Renault,Fortuner,Hybrid,AMT,Grey,Budget,52,M,5000000,25000,In-House Finance,24,NO,N,5,YES,16/08/2022,SP119,Y,60
+CAR30119,Rajasthan,Toyota,Kwid,electric,Manual,White,suv,29.0,M,700000,0,CASH,24,N,NO,4,Y,4/4/2020,SP108,Y,14
+CAR30120,Rajasthan,Honda,Scorpio,cng,Manual,Blue,Mid-Range, 58,Male,5000000.0,100000,Bank Loan,12,No,No,3,N,8-1-2024,SP117,yes,0
+CAR30121,Andhra Pradesh,Honda,Fortuner,electric,AMT,White,Mid-Range,49,M,Rs.1500000,₹25000,emi,60,no,0,4,NO,2023-07-05,SP120,1,NA
+CAR30122,Telangana,Volkswagen,i20,Electric,AMT,Black,hatchback,33,male,700000.0,₹50000,bank loan,48,0,No,,N,2019-09-01,SP109,Yes,21
+CAR30123,Bihar,Hyundai,Scorpio,Electric,manual,Black,Mid-Range,51.0,M,"₹2,000,000",10000,bank loan,36 months,NO,No,5,YES,21/08/2019,SP117,NO,7
+CAR30124,Rajasthan,Volkswagen,Nexon,cng,Automatic,white,Hatchback,49,Male,Rs.500000,10000,EMI,12,No,NO,5,1,02/05/2021,SP115,1,30 days
+CAR30125,Gujarat,Toyota,Fortuner,CNG,Manual,White,SUV,27.0,male,700000,25000,EMI,60,N,Yes,NA,Yes,12.3.2024,SP101,NO,14
+CAR30126,Madhya Pradesh,Maruti Suzuki,Fortuner,Hybrid,CVT,Grey,hatchback, 31,F,2500000,100000,emi,36,Yes,yes,5,yes,2020-10-26,SP111,yes,30
+CAR30127,Gujarat,Kia,i20,petrol,amt,Black,MUV,49.0,female,3000000.0,25000,bank loan,NA,1,yes,5,1,2020-07-18,SP120,Yes,45
+CAR30128,Madhya Pradesh,Tata Motors,Kwid,petrol,amt,SILVER,Luxury,22,F,5000000,25000,bank loan,72,0,NO,5,yes,2024-09-22,SP118,NO,30
+CAR30129,Bihar,Maruti Suzuki,Scorpio,Diesel,Automatic,white,Sedan,34,male,Rs.900000,₹0,Cash,24,NO,NO,3,1,2022-07-28,SP101,YES,14
+CAR30130,Rajasthan,Mahindra,Swift,Petrol,Automatic,White,hatchback,23,Female,700000,25000,Cash,48 months,YES,0,4,no,20-4-2020,SP115,1,21
+CAR30131,Rajasthan,Skoda,i20,CNG,amt,SILVER,hatchback,44.0,M,"₹3,000,000",25000,CASH,48 months,YES,NO,4,Y,2023-05-08,SP117,YES,7 days
+CAR30132,Karnataka,Tata Motors,EcoSport,electric,Manual,Blue,SUV,28.0,male,1500000,50000,In-House Finance,24,YES,0,NA,1,15-10-2020,SP115,no,30
+CAR30133,Uttar Pradesh,Volkswagen,Kwid,petrol,manual,Black,MUV,44,Male,1200000,₹75000,emi,72,1,N,5,NO,6-7-2024,SP105,1,60
+CAR30134,Gujarat,Volkswagen,Hector,electric,Manual,Silver,Hatchback,35.0,MALE,1200000,0,Bank Loan,48 months,Y,YES,4,1,4/8/2019,SP114,1,45
+CAR30135,West Bengal,Mahindra,Nexon,electric,Automatic,Blue,sedan,34.0,Female,"₹5,000,000",0,Leasing,48 months,1,yes,5,Yes,2024-08-28,SP109,N,7 days
+CAR30136,West Bengal,Renault,i20,Diesel,AUTOMATIC,Grey,hatchback,33,male,"₹5,000,000",₹25000,Bank Loan,NA,no,YES,5,YES,13/01/2021,SP110,Yes,45
+CAR30137,Uttar Pradesh,Volkswagen,Hector,Hybrid,CVT,Grey,MUV,26.0,MALE,5000000,100000,Leasing,72,No,NO,3,YES,2019-03-20,SP108,YES,0
+CAR30138,West Bengal,Skoda,Fortuner,petrol,manual,White,Hatchback,55,male,700000,₹0,CASH,60,No,1,NA,0,2024-06-28,SP119,no,14
+CAR30139,Tamil Nadu,Tata Motors,Fortuner,electric,manual,red,sedan,45,Male,Rs.5000000,0,Bank Loan,36 months,Y,Y,4,0,08/01/2022,SP110,N,60
+CAR30140,West Bengal,Ford,Fortuner,DIESEL,Manual,Black,SUV,53.0,F,1500000,25000,Bank Loan,NA,No,1,4,YES,2020-08-01,SP114,0,0
+CAR30141,Kerala,Kia,Polo,DIESEL,amt,SILVER,Hatchback,56.0,Female,900000,0,Cash,12,Y,1,4,NO,4-1-2019,SP115,NO,60
+CAR30142,Uttar Pradesh,Skoda,Fortuner,CNG,CVT,Black,Sedan,40,M,700000.0,10000,bank loan,60,No,no,3,NO,2024-12-18,SP110,N,45
+CAR30143,Rajasthan,Honda,Slavia,petrol,CVT,Black,sedan, 55,M,3000000,75000,bank loan,12,N,YES,,Y,5/4/2021,SP119,no,30 days
+CAR30144,Telangana,Ford,Hector,cng,AUTOMATIC,Black,Hatchback, 45,female,1500000.0,50000,Cash,12,N,Y,NA,N,2024-05-20,SP103,N,NA
+CAR30145,Andhra Pradesh,Ford,Scorpio,Electric,AMT,White,sedan,27,M,"₹1,200,000",100000,EMI,NA,YES,1,5,N,2019-02-07,SP101,N,7 days
+CAR30146,Uttar Pradesh,Volkswagen,EcoSport,CNG,Manual,Blue,Sedan,27,female,900000,75000,Cash,48,Y,Yes,NA,Yes,10.5.2022,SP111,Y,0
+CAR30147,Telangana,Skoda,Kwid,petrol,AMT,SILVER,Budget,43.0,F,"₹5,000,000",50000,emi,72,0,1,,Y,2019-03-21,SP113,YES,45
+CAR30148,Kerala,Kia,Fortuner,cng,manual,Grey,hatchback,28,F,2500000,10000,Bank Loan,36,1,no,5,N,8/26/2024,SP117,No,45
+CAR30149,West Bengal,Ford,Swift,DIESEL,AUTOMATIC,Grey,hatchback,50,M,"₹1,500,000",₹50000,Leasing,48 months,Yes,yes,4,0,8.4.2022,SP116,1,NA
+CAR30150,Uttar Pradesh,Skoda,Swift,CNG,amt,SILVER,Luxury,27.0,F,"₹5,000,000",25000,Bank Loan,36 months,0,Yes,NA,1,6/9/2019,SP105,NO,30 days
+CAR30151,Karnataka,Tata Motors,Seltos,Diesel,AMT,Black,Budget,40,male,500000.0,75000,emi,12,yes,Yes,3,no,21.10.2024,SP113,YES,30
+CAR30152,Maharashtra,Ford,City,Electric,AMT,Red,Budget,27,M,Rs.2000000,25000,CASH,60,yes,N,4,yes,2019-12-12,SP108,NO,NA
+CAR30153,Gujarat,Hyundai,Hector,DIESEL,AUTOMATIC,Blue,Hatchback,37.0,Male,2000000.0,25000,emi,60,1,no,3,Y,2024-02-06,SP120,N,NA
+CAR30154,Rajasthan,Maruti Suzuki,Kwid,petrol,AUTOMATIC,red,Mid-Range, 40,M,"₹900,000",10000,EMI,48 months,Y,1,NA,N,12/2/2023,SP116,no,30 days
+CAR30155,Bihar,Kia,City,electric,amt,Grey,Budget,46,M,900000.0,₹0,Leasing,60,N,Yes,5,1,2-2-2023,SP108,Y,21
+CAR30156,Kerala,Volkswagen,EcoSport,Hybrid,CVT,Grey,suv,46,M,2000000,₹0,Leasing,48 months,YES,no,5,0,2/20/2019,SP103,yes,7 days
+CAR30157,Tamil Nadu,Honda,City,CNG,amt,White,MUV, 42,Male,"₹900,000",10000,bank loan,36 months,0,1,NA,YES,24-5-2021,SP108,Y,7 days
+CAR30158,Telangana,Tata Motors,Scorpio,CNG,Automatic,Silver,Luxury, 46,male,"₹900,000",0,Cash,36,No,N,5,YES,24.6.2019,SP113,no,21
+CAR30159,Maharashtra,Hyundai,i20,petrol,amt,Red,SUV,40,Male,2000000.0,75000,bank loan,NA,YES,N,5,N,11/23/2020,SP107,N,7
+CAR30160,Telangana,Mahindra,i20,Electric,CVT,Red,SUV,46.0,Male,700000.0,25000,In-House Finance,60,YES,yes,3,N,4/7/2021,SP107,N,7 days
+CAR30161,Andhra Pradesh,Hyundai,Fortuner,CNG,CVT,Black,suv,55.0,Female,5000000.0,₹100000,bank loan,36 months,NO,Y,3,1,2.8.2024,SP108,yes,7
+CAR30162,Telangana,Mahindra,Scorpio,CNG,Automatic,SILVER,Sedan,36.0,male,Rs.700000,50000,Cash,NA,1,Y,3,yes,15.10.2022,SP107,yes,60
+CAR30163,Bihar,Maruti Suzuki,Nexon,Petrol,AMT,SILVER,hatchback, 40,male,"₹3,000,000",50000,Bank Loan,48 months,NO,No,5,No,9/19/2022,SP105,N,60
+CAR30164,Gujarat,Tata Motors,Hector,petrol,manual,Grey,Sedan,23,male,"₹1,200,000",75000,Cash,60,No,no,4,1,17-4-2019,SP120,no,NA
+CAR30165,Gujarat,Renault,Slavia,Petrol,CVT,red,suv,58,female,"₹900,000",₹50000,Bank Loan,12,Yes,YES,5,N,6/16/2022,SP117,no,14
+CAR30166,Andhra Pradesh,Honda,Swift,electric,manual,Silver,Sedan,43.0,female,"₹700,000",₹50000,CASH,NA,Yes,Yes,3,0,8/2/2024,SP119,Y,0
+CAR30167,Uttar Pradesh,Maruti Suzuki,Nexon,CNG,manual,Grey,sedan,36.0,Male,700000,25000,bank loan,60,no,yes,NA,yes,12-6-2022,SP109,NO,30 days
+CAR30168,Maharashtra,Ford,Hector,CNG,Automatic,Grey,hatchback,46,M,5000000.0,25000,Leasing,36,No,No,5,NO,2023-06-03,SP118,NO,14
+CAR30169,West Bengal,Mahindra,City,Hybrid,AUTOMATIC,Black,Hatchback,41.0,Male,"₹2,000,000",0,Leasing,48 months,1,Yes,5,YES,05/02/2020,SP109,Yes,7
+CAR30170,Madhya Pradesh,Volkswagen,Scorpio,Petrol,CVT,Black,Luxury, 51,MALE,2500000,25000,Cash,NA,1,1,4,no,3-9-2022,SP118,Yes,30
+CAR30171,Karnataka,Renault,i20,DIESEL,Manual,Blue,Mid-Range,24,M,"₹2,500,000",50000,Leasing,NA,0,Yes,5,0,9/12/2022,SP120,No,30 days
+CAR30172,Telangana,Hyundai,Polo,CNG,AUTOMATIC,white,Mid-Range,44.0,F,1500000,75000,Cash,36,Yes,Y,4,yes,26-1-2021,SP120,YES,7 days
+CAR30173,Kerala,Renault,Kwid,Electric,Manual,Red,Mid-Range,35,Male,1500000.0,10000,bank loan,60,NO,1,4,yes,4-10-2021,SP115,No,30 days
+CAR30174,West Bengal,Maruti Suzuki,Slavia,electric,amt,SILVER,SUV,57.0,Female,Rs.3000000,50000,Cash,60,NO,yes,5,yes,17/08/2022,SP102,0,0
+CAR30175,Andhra Pradesh,Mahindra,Kwid,petrol,CVT,white,Hatchback,25.0,Male,1500000,₹100000,EMI,12,1,Yes,3,yes,20-10-2020,SP117,1,7
+CAR30176,Uttar Pradesh,MG,Kwid,petrol,manual,White,Budget, 51,M,500000,75000,Leasing,NA,NO,0,5,1,16-4-2024,SP102,N,30
+CAR30177,Madhya Pradesh,Hyundai,Fortuner,petrol,manual,Grey,Budget,43.0,male,900000,₹75000,EMI,12,Y,YES,5,yes,8-10-2020,SP111,NO,7 days
+CAR30178,Gujarat,MG,Seltos,CNG,Manual,white,MUV,52,F,500000,25000,bank loan,48 months,YES,Y,5,0,10/20/2021,SP110,Y,7 days
+CAR30179,Rajasthan,Mahindra,Fortuner,electric,Automatic,Red,MUV,43,Male,5000000,75000,emi,36 months,yes,NO,5,1,22.5.2022,SP117,yes,45
+CAR30180,Telangana,Maruti Suzuki,Seltos,Diesel,Manual,Red,MUV,43,male,Rs.1500000,₹100000,emi,36,no,YES,5,YES,14.1.2019,SP104,no,0
+CAR30181,Kerala,Tata Motors,Kwid,DIESEL,amt,Silver,suv, 30,Female,1200000,10000,emi,48,N,1,5,1,3/3/2024,SP113,Y,21
+CAR30182,Gujarat,Kia,Fortuner,Electric,Automatic,Black,SUV,49,male,900000,50000,Cash,NA,YES,0,3,0,3-2-2022,SP104,1,60
+CAR30183,Tamil Nadu,Kia,Scorpio,CNG,CVT,SILVER,Sedan,42,female,5000000.0,10000,Bank Loan,36,No,no,3,1,2.5.2020,SP105,no,14
+CAR30184,Tamil Nadu,Toyota,Seltos,Diesel,CVT,red,Luxury,53.0,female,"₹1,200,000",100000,bank loan,NA,No,yes,5,0,5/4/2023,SP101,NO,7 days
+CAR30185,Tamil Nadu,Hyundai,Nexon,DIESEL,AUTOMATIC,SILVER,Budget, 43,Female,500000,0,CASH,24,No,0,5,NO,1.1.2023,SP120,yes,45
+CAR30186,Karnataka,Mahindra,i20,cng,AMT,Blue,Luxury,31.0,Female,700000.0,100000,EMI,36 months,1,Y,4,NO,11-1-2024,SP112,NO,21
+CAR30187,West Bengal,Honda,City,electric,manual,Grey,Budget,29.0,MALE,Rs.900000,10000,CASH,48 months,0,no,5,Y,15.9.2024,SP115,Y,NA
+CAR30188,Madhya Pradesh,Volkswagen,Seltos,CNG,CVT,Red,SUV,30.0,Male,1200000,10000,Leasing,72,Yes,0,4,N,5.10.2022,SP107,NO,45
+CAR30189,Gujarat,Renault,Kwid,DIESEL,amt,white,Sedan,43.0,male,Rs.2000000,50000,EMI,12,YES,1,4,N,24.8.2020,SP115,NO,30
+CAR30190,Gujarat,Mahindra,Slavia,electric,Automatic,white,sedan,52.0,M,"₹3,000,000",0,emi,72,1,Yes,4,yes,16-3-2021,SP120,No,0
+CAR30191,Gujarat,Mahindra,Swift,electric,manual,Silver,SUV,31,M,Rs.700000,75000,Bank Loan,36 months,Y,0,3,No,14.12.2019,SP113,1,21
+CAR30192,Telangana,Volkswagen,Nexon,Diesel,amt,red,Budget,52,female,700000,25000,Bank Loan,36 months,Yes,N,5,Y,2021-01-03,SP105,yes,7 days
+CAR30193,Rajasthan,Kia,i20,Hybrid,AUTOMATIC,White,SUV,59.0,M,3000000.0,25000,bank loan,24,1,YES,3,Y,12/18/2021,SP115,Y,21
+CAR30194,Uttar Pradesh,Ford,Slavia,Electric,CVT,Grey,Budget,48.0,male,Rs.2000000,75000,Cash,60,Y,N,5,no,8/11/2021,SP116,Y,7
+CAR30195,Uttar Pradesh,MG,Scorpio,Hybrid,AUTOMATIC,white,hatchback,32.0,F,Rs.1200000,0,Leasing,36,N,Yes,,Y,11.3.2021,SP102,0,0
+CAR30196,Madhya Pradesh,MG,Scorpio,Hybrid,manual,SILVER,Mid-Range,48,Male,"₹2,000,000",₹50000,In-House Finance,60,N,Y,3,no,5.9.2024,SP113,no,NA
+CAR30197,Madhya Pradesh,MG,Hector,cng,AMT,white,Sedan, 42,M,2500000,50000,Leasing,12,1,no,5,1,2023-03-25,SP120,Y,30
+CAR30198,Tamil Nadu,Kia,Hector,Electric,amt,white,Luxury,52,M,2000000,₹50000,In-House Finance,24,Yes,YES,3,NO,12/20/2020,SP112,Y,45
+CAR30199,Andhra Pradesh,Tata Motors,Kwid,cng,AUTOMATIC,Grey,Luxury,47.0,M,500000.0,0,CASH,36 months,yes,NO,5,1,24/03/2021,SP116,No,NA
